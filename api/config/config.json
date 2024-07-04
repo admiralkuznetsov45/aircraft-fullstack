@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "4Y4Mj4nt4n",
+    "database": "database_fullstack_development",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "4Y4Mj4nt4n",
+    "database": "database_fullstack_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "4Y4Mj4nt4n",
+    "database": "database_fullstack_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
